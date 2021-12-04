@@ -1,0 +1,10 @@
+{
+    "name": "getallheaders",
+    "vendor": "Ralouphie",
+    "description": "fork",
+    "repo_url": "https://github.com/coding-liki/getallheaders",
+    "version": "0.1",
+    "depends_on": [
+	"CodingLiki/OoAutoloader"
+    ]
+}
